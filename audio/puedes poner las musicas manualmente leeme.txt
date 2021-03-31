@@ -1,0 +1,8 @@
+para poner las musicas, la primera se debe llamar main.mp3
+
+las otras van en el siguiente orden:
+
+a2.mp3
+a3.mp3
+a4.mp3
+a5.mp3
