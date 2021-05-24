@@ -1,17 +1,1 @@
-/* --- Logo Mobile y Logo PC --- */ 
-.logo img,
-.logoM img {
-	animation: logo-spin infinite 2s linear;
-	animation-direction: alternate;
-	animation-delay: 1s ease;
-}
-
-/* -- Animation of the (Logo) -- */
-@keyframes logo-spin {
-  from {
-    filter: saturate(1);
-  }
-  to {
-    filter: saturate(10);
-  }
-}
+.logo img,.logoM img{animation:logo-spin infinite 2s linear;animation-direction:alternate;animation-delay:1s ease}@keyframes logo-spin{from{filter:saturate(1)}to{filter:saturate(10)}}
